@@ -5,9 +5,12 @@ An AI-powered robotic arm control system built with Python, OpenCV, YOLOv8, PyQt
 
 ## 📸 Project Preview
 <img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/f1d4e1d9-5ca9-4d43-9217-4311df2a0bd6" />
-<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/f6391cbc-869a-4517-b25c-64e743ba5cae" />
-<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/6b2dc131-adc3-4baf-ad86-cda67c6a868a" />
-<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/2bf27917-3b63-4455-aca3-c891d16ffb3d" />
+<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/156b8acd-2c17-4d26-9661-e209369073a1" />
+<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/400a3c26-60cc-4f32-9b25-7dd291daaf39" />
+<img width="1740" height="980" alt="Screenshot 2026-07-18 171042" src="https://github.com/user-attachments/assets/6942146a-6532-43b6-8e55-b8a7319963d7" />
+
+
+
 
 ---
 
